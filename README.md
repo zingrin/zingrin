@@ -11,7 +11,7 @@
 
 # 👋 Hi, I'm Zingrin Loncheu
 
-🎯 **Aspiring Full-Stack Web Developer** | 💻 Passionate about JavaScript, React, Node.js & MongoDB
+ **Aspiring Full-Stack Web Developer** |  Passionate about JavaScript, React, Node.js & MongoDB
 
 ---
 
