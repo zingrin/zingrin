@@ -69,33 +69,5 @@ I'm a motivated and detail-oriented web developer from Bangladesh, currently foc
 
 ---
 
-> “**Code is like humor. When you have to explain it, it’s bad.**” – *Cory House*## 📌 Popular Repositories
+> “**Code is like humor. When you have to explain it, it’s bad.**” – *Cory House*
 
-<p align="left">
-  <a href="https://github.com/zingrinloncheu/portfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zingrinloncheu&repo=portfolio&theme=default" />
-  </a>
-  <a href="https://github.com/zingrinloncheu/ecommerce-platform">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zingrinloncheu&repo=ecommerce-platform&theme=default" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/zingrinloncheu/speakstack-forum">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zingrinloncheu&repo=speakstack-forum&theme=default" />
-  </a>
-  <a href="https://github.com/zingrinloncheu/delivery-coverage-map">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zingrinloncheu&repo=delivery-coverage-map&theme=default" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/zingrinloncheu/course-management-system">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zingrinloncheu&repo=course-management-system&theme=default" />
-  </a>
-  <a href="https://github.com/zingrinloncheu/membership-blog-platform">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zingrinloncheu&repo=membership-blog-platform&theme=default" />
-  </a>
-</p>
-
-> 
