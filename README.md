@@ -15,13 +15,13 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm a motivated and detail-oriented web developer from Bangladesh, currently focused on building responsive and user-friendly web applications using the **MERN stack** (MongoDB, Express.js, React, Node.js). I enjoy learning new technologies and collaborating on innovative projects that make a difference.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠 Technologies & Tools
 
 <p align="left">
   <!-- Frontend -->
