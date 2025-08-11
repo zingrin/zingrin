@@ -63,8 +63,7 @@ I'm a motivated and detail-oriented web developer from Bangladesh, currently foc
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/zingrin-loncheu-902503379/)
-- 🐦 [Twitter]()  
-- 🌐 [Portfolio Website]()  
+- 🌐 [Portfolio Website](https://dreamy-fairy-49e29a.netlify.app/)  
 - 📧 **jerinloncheu@gmail.com**
 
 ---
