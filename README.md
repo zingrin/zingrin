@@ -13,7 +13,7 @@ While I've just started working with Node.js, Express, and MongoDB, I’m steadi
 
 ✨ Creating bugs since 2019  
 🌱 Currently Learning: Diving deeper into backend technologies and exploring MERN stack projects  
-🎯 Goals: Master Next.js, TypeScript, and Redux Toolkit  
+🎯 Goals: Master React.js, Node.js,Expres,MongoDB, and Firebase  
 
 Feel free to explore my repositories and ⭐ the ones you like! 😊  
 
