@@ -42,13 +42,14 @@ Feel free to explore my repositories and ⭐ the ones you like! 😊
 
 ## 📊 My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zingrin&show_icons=true&theme=radical&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zingrin&layout=compact&theme=radical&cache_seconds=86400" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=zingrin&theme=radical" />
 </p>
+
 
 ---
 
