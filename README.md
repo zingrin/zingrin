@@ -1,6 +1,6 @@
 <!-- Static Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/Xf7kv4d/web-developer.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/ZpDQBnGD/web-developer-1.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Frontend Developer</h1>
@@ -27,6 +27,13 @@ Feel free to explore my repositories and ⭐ the ones you like! 😊
 </p>
 
 ---
+## 📫 Find Me On  
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="48"/></a>
+</p>
 
 ## 📊 My Stats  
 
@@ -44,10 +51,4 @@ Feel free to explore my repositories and ⭐ the ones you like! 😊
 
 ---
 
-## 📫 Find Me On  
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="48"/></a>
-</p>
