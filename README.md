@@ -1,6 +1,6 @@
 <!-- Static Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/Xf7kv4dZ/web-developer.png" alt="Banner" width="100" />
+  <img src="https://i.ibb.co/Xf7kv4d/web-developer.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Frontend Developer</h1>
