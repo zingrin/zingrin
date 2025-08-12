@@ -3,6 +3,7 @@
   <img src="https://i.ibb.co.com/ZpDQBnGD/web-developer-1.png" alt="Banner" width="100%" />
 </p>
 
+<h1 align="center">Zingrin Loncheu</h1>
 <h1 align="center">Web Developer</h1>
 
 ## About me
@@ -55,16 +56,15 @@ Feel free to explore my repositories and ⭐ the ones you like! 😊
 
 ### 📌 SpeakStack
 A MERN stack forum platform with user & admin dashboards, voting, comments, memberships, and moderation tools.  
-**Live:** [https://speakstack-a1b8a.web.app/](https://speakstack-a1b8a.web.app/)  
-**Client Repo:** [SpeakStack Client]()  
+**Live:** [SpeakStack Live](https://speakstack-a1b8a.web.app/)  
+**Client Repo:** (https://github.com/zingrin/speakstack-client)  
 
 ---
 
 ### 📌 Academix
 A course management system with role-based dashboards, JWT authentication, and secure CRUD operations.  
-**Live:** [Academix Live](https://academix-link.com)  
-**Client Repo:** [Academix Client](https://github.com/YOUR_GITHUB_USERNAME/academix-client)  
-**Server Repo:** [Academix Server](https://github.com/YOUR_GITHUB_USERNAME/academix-server)
+**Live:** [Academix Live](https://academix-5a4b3.web.app/)  
+**Client Repo:** (https://github.com/zingrin/academix-client-side)  
 
 
 ---
