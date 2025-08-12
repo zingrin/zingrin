@@ -11,7 +11,7 @@
 I'm a Web Developer passionate about crafting clean and functional user interfaces. I specialize in React and Tailwind CSS.  
 While I've just started working with Node.js, Express, and MongoDB, I’m steadily building my full-stack skills.  
 
-✨ Creating bugs since 2019  
+✨ Creating bugs since 2024  
 🌱 Currently Learning: Diving deeper into backend technologies and exploring MERN stack projects  
 🎯 Goals: Master React.js, Node.js,Expres,MongoDB, and Firebase  
 
