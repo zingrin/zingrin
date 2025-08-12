@@ -17,36 +17,55 @@ While I've just started working with Node.js, Express, and MongoDB, I’m steadi
 Feel free to explore my repositories and ⭐ the ones you like! 😊  
 
 ---
-
-## 🖥️ Technology Stack  
-
-<p align="left">
+## 💻 Technology Stack
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,bootstrap,css,firebase,express,html,mongodb,tailwind" />
 </p>
 
-## 📫 Find Me On  
+---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/zingrin-loncheu-902503379/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+## 🔗 Find Me On
+<p align="center">
+  <a href="https://www.linkedin.com/in/zingrin-loncheu-902503379/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox:jerinloncheu@gmail.com" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="48" alt="Email" />
 </a>
+  <a href="https://wa.me/YOUR_WHATSAPP" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="48" />
+  </a>
+</p>
 
-</p>---
+---
 
-## 📊 My Stats  
-
+## 📊 My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/zingrin&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/zingrin&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=https://github.com/zingrin&theme=radical" alt="GitHub Streak" />
-</p>
+---
+
+## 🚀 Featured Projects
+
+### 📌 SpeakStack
+A MERN stack forum platform with user & admin dashboards, voting, comments, memberships, and moderation tools.  
+**Live:** [https://speakstack-a1b8a.web.app/](https://speakstack-a1b8a.web.app/)  
+**Client Repo:** [SpeakStack Client]()  
+
+---
+
+### 📌 Academix
+A course management system with role-based dashboards, JWT authentication, and secure CRUD operations.  
+**Live:** [Academix Live](https://academix-link.com)  
+**Client Repo:** [Academix Client](https://github.com/YOUR_GITHUB_USERNAME/academix-client)  
+**Server Repo:** [Academix Server](https://github.com/YOUR_GITHUB_USERNAME/academix-server)
+
 
 ---
 
