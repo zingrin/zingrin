@@ -1,8 +1,7 @@
 <!-- Static Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/fdj2F656/Screenshot-2025-08-24-120115.png" alt="Banner" width="100%" />
-</p>
-
+  <img src="https://i.ibb.co.com/fdj2F656/Screenshot-2025-08-24-120115.png" alt="Banner" width="100%" />
+</p> 
 
 <h1 align="center">Zingrin Moi Bawm</h1>
 <h1 align="center">Web Developer</h1>
