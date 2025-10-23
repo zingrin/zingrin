@@ -1,9 +1,9 @@
 <!-- Static Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/ZpDQBnGD/web-developer-1.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/zVz4Ypc7/jerin.jpg" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Zingrin Loncheu</h1>
+<h1 align="center">Zingrin Moi Bawm</h1>
 <h1 align="center">Web Developer</h1>
 
 ## About me
