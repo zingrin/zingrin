@@ -64,7 +64,7 @@ A MERN stack forum platform with user & admin dashboards, voting, comments, memb
 
 ### 📌 Academix
 A course management system with role-based dashboards, JWT authentication, and secure CRUD operations.  
-**Live:** [Academix Live](https://academix-5a4b3.web.app/)  
+**Live:** [Academix Live](https://academix-5a4b3.web.app)  
 **Client Repo:** (https:https://github.com/zingrin/academix-client-side)  
 
 
