@@ -1,6 +1,6 @@
 <!-- Static Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/fdj2F656/Screenshot-2025-08-24-120115.png" alt="Banner" width="80%" height="900px" />
+  <img src="https://i.ibb.co.com/hFg5T2fL/zing.png" alt="Banner" width="80%" height="900px" />
 </p> 
 
 <h1 align="center">Zingrin Moi Bawm</h1>
