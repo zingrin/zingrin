@@ -1,11 +1,10 @@
 <!-- Static Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/hFg5T2fL/zing.png" alt="Banner" width="80%" height="900px" />
-</p> 
+  <img src="https://i.ibb.co/hFg5T2fL/zing.png" alt="Banner" width="80%" height="900px" />
+</p>
 
 <h1 align="center">Zingrin Moi Bawm</h1>
 <h1 align="center">Web Developer</h1>
-
 
 ## About me
 
