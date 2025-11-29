@@ -1,19 +1,27 @@
 <!-- Static Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/hFg5T2fL/zing.png" alt="Banner" width="80%" height="900px" />
+  <img src="https://i.ibb.co.com/RG0SpTNn/1761230678309-e-1766016000-v-beta-t-ZKa-OK7n-BAi-BA4-EIqt-S3-Rwe-Qnsmu08o-QNj-HLr7nx-KPPE.jpg" alt="Banner" width="80%" height="1000px" />
 </p>
 
-<h1 align="center">Zingrin Moi Bawm</h1>
-<h1 align="center">Web Developer</h1>
+<h1 align="center">Hi 👋, I'm Zingrin Moi Bawm</h1>
+<h3 align="center">🚀 MERN Stack Developer | Passionate About Building Modern, Scalable Web Applications</h3>
 
-## About me
+---
 
-I'm a Web Developer passionate about crafting clean and functional user interfaces. I specialize in React and Tailwind CSS.  
-While I've just started working with Node.js, Express, and MongoDB, I’m steadily building my full-stack skills.  
 
-✨ Creating bugs since 2024  
-🌱 Currently Learning: Diving deeper into backend technologies and exploring MERN stack projects  
-🎯 Goals: Master React.js, Node.js,Expres,MongoDB, and Firebase  
+## 👨‍💻 About Me
+I’m a passionate and detail-oriented **MERN Stack Developer** who loves building user-centric, responsive, and optimized web applications.  
+Currently exploring advanced backend patterns, system design basics, and performance-focused full-stack development.
+
+---
+
+## 🔭 Current Activities
+- 🚀 Working on a **E-Commerce Website** using React, Node.js & MongoDB  
+- 🔍 Learning **Next.js & TypeScript**  
+- 🛠️ Building **RESTful APIs** & Firebase/JWT-based authentication  
+- ✍️ Writing reusable UI components in **TailwindCSS & DaisyUI**  
+- 🎯 Improving skills in **system architecture & CI/CD deployment**
+
 
 Feel free to explore my repositories and ⭐ the ones you like! 😊  
 
@@ -27,13 +35,13 @@ Feel free to explore my repositories and ⭐ the ones you like! 😊
 
 ## 🔗 Find Me On
 <p align="center">
-  <a href="https://www.linkedin.com/in/zingrin-loncheu-902503379/" target="_blank">
+  <a href="https://www.linkedin.com/in/zingrin" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox:jerinloncheu@gmail.com" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="48" alt="Email" />
 </a>
-  <a href="https://wa.me/YOUR_WHATSAPP" target="_blank">
+  <a href="https://web.whatsapp.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="48" />
   </a>
 </p>
