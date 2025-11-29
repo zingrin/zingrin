@@ -3,24 +3,31 @@
   <img src="https://i.ibb.co.com/RG0SpTNn/1761230678309-e-1766016000-v-beta-t-ZKa-OK7n-BAi-BA4-EIqt-S3-Rwe-Qnsmu08o-QNj-HLr7nx-KPPE.jpg" alt="Banner" width="80%" height="1000px" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Zingrin Moi Bawm</h1>
+<h1 align="center">👋 Hi, I'm Zingrin Moi Bawm</h1>
 <h3 align="center">🚀 MERN Stack Developer | Passionate About Building Modern, Scalable Web Applications</h3>
 
 ---
 
-
-## 👨‍💻 About Me
-I’m a passionate and detail-oriented **MERN Stack Developer** who loves building user-centric, responsive, and optimized web applications.  
-Currently exploring advanced backend patterns, system design basics, and performance-focused full-stack development.
+## 🧑‍💼 About Me
+I’m a passionate developer with a strong foundation in ** React, and the MERN Stack**.  
+I enjoy building modern, scalable, and user-friendly web applications — and I constantly strive to grow through learning and collaboration.
 
 ---
 
-## 🔭 Current Activities
-- 🚀 Working on a **E-Commerce Website** using React, Node.js & MongoDB  
-- 🔍 Learning **Next.js & TypeScript**  
-- 🛠️ Building **RESTful APIs** & Firebase/JWT-based authentication  
-- ✍️ Writing reusable UI components in **TailwindCSS & DaisyUI**  
-- 🎯 Improving skills in **system architecture & CI/CD deployment**
+
+## 🔍 Currently Exploring
+- 🚀 Working on **real-world projects** that solve everyday problems  
+- ⚛️ Learning **React.js, TypeScript, Next.js** and modern frontend technologies  
+- 🗄️ Expanding into backend development:  
+  **Node.js, Express, MongoDB, Go Lang, AWS, Docker, AI Agents**  
+- 🤝 Helping others build scalable and responsive applications  
+- 🧠 Improving problem-solving skills & writing clean, maintainable code  
+
+
+---
+
+🌟 *Feel free to explore my repositories — Contributions, feedback, and collaboration are always welcome!*  
+
 
 
 Feel free to explore my repositories and ⭐ the ones you like! 😊  
