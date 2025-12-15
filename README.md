@@ -70,6 +70,12 @@ Feel free to explore my repositories and ⭐ the ones you like! 😊
 
 ## 🚀 Featured Projects
 
+### 📌 FastFeast | Fast Food Delivery Application (Team Project)
+A modern fast-food delivery platform offering smooth navigation, efficient menu management, and a seamless
+ordering experience.
+  **Live:** [FastFeast Live](https://fast-feast-nine.vercel.app)  
+**Client Repo:** (https://github.com/MdImranHossen01/FastFeast)  
+
 ### 📌 SpeakStack
 A MERN stack forum platform with user & admin dashboards, voting, comments, memberships, and moderation tools.  
 **Live:** [SpeakStack Live](https://speakstack-a1b8a.web.app/)  
