@@ -48,7 +48,7 @@ Feel free to explore my repositories and ⭐ the ones you like! 😊
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox:jerinloncheu@gmail.com" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="48" alt="Email" />
 </a>
-  <a href="https://web.whatsapp.com/" target="_blank">
+  <a href="https://wa.me/8801755171954" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="48" />
   </a>
 </p>
