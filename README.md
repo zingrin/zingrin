@@ -48,20 +48,16 @@ I love building **modern, scalable, and user-friendly web applications** and con
 </p>
 
 ---
+## 📊 My GitHub Stats
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zingrin&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zingrin&layout=compact&theme=radical" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=zingrin&theme=radical"/>
-</p> -->
-## 📊 My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zingrin&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zingrin&layout=compact&theme=radical)
+</p> 
 
 ---
 
