@@ -1,6 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/RG0SpTNn/1761230678309-e-1766016000-v-beta-t-ZKa-OK7n-BAi-BA4-EIqt-S3-Rwe-Qnsmu08o-QNj-HLr7nx-KPPE.jpg" alt="Banner" width="80%" />
+  <img src="https://i.ibb.co.com/RG0SpTNn/1761230678309-e-1766016000-v-beta-t-ZKa-OK7n-BAi-BA4-EIqt-S3-Rwe-Qnsmu08o-QNj-HLr7nx-KPPE.jpg"
+       alt="Banner"
+       width="100%"
+       style="max-height:420px; object-fit:cover;" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Zingrin Moi Bawm</h1>
@@ -36,11 +39,9 @@ I love building **modern, scalable, and user-friendly web applications** and con
   <a href="https://www.linkedin.com/in/zingrin" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
   <a href="mailto:jerinloncheu@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="48" alt="Email" />
   </a>
-
   <a href="https://wa.me/8801755171954" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="48" />
   </a>
@@ -50,8 +51,8 @@ I love building **modern, scalable, and user-friendly web applications** and con
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?zingrin=zingrin&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?zingrin=zingrin&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zingrin&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zingrin&layout=compact&theme=radical" height="165"/>
 </p>
 
 <p align="center">
