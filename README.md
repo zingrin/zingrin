@@ -18,12 +18,10 @@ I love building **modern, scalable, and user-friendly web applications** and con
 ---
 
 ## Currently Exploring
--  Building **real-world projects** that solve everyday problems  
-- Learning **React.js, TypeScript, Next.js**  
--  Backend & DevOps:
-  **Node.js, Express, MongoDB, Go, AWS, Docker, AI Agents**  
-- Helping others build scalable & responsive applications  
-- Improving problem-solving & clean code practices  
+Language: JavaScript, ES6, React.js, Firebase, Tailwind, Html5, Css5
+Comfortable: Next.js, Rest API, Chrome Dev Tool, Bootstrap, Mongoose
+Familiar: Node.js, Express.js, MongoDB, JWT, Axios, React Query Tools: Git & GitHub, npm, VS Code, Netlify, Vercel
+Soft Skills: Quick Learning,Time Management,Communication, Teamwork.
 
 ---
 
