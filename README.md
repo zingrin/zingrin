@@ -1,33 +1,33 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/RG0SpTNn/1761230678309-e-1766016000-v-beta-t-ZKa-OK7n-BAi-BA4-EIqt-S3-Rwe-Qnsmu08o-QNj-HLr7nx-KPPE.jpg"
+  <img src="https://i.ibb.co.com/23BbChKV/zingrin-moi-bawm.png"
        alt="Banner"
        width="100%"
        style="max-height:420px; object-fit:cover;" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Zingrin Moi Bawm</h1>
-<h3 align="center">🚀 MERN Stack Developer | Passionate About Building Modern, Scalable Web Applications</h3>
+<h1 align="center">Hi, I'm Zingrin Moi Bawm</h1>
+<h3 align="center"> MERN Stack Developer | Passionate About Building Modern, Scalable Web Applications</h3>
 
 ---
 
-## 🧑‍💼 About Me
+##  About Me
 I’m a passionate developer with a strong foundation in **React and the MERN Stack**.  
 I love building **modern, scalable, and user-friendly web applications** and continuously improve my skills through learning, experimentation, and collaboration.
 
 ---
 
-## 🔍 Currently Exploring
-- 🚀 Building **real-world projects** that solve everyday problems  
-- ⚛️ Learning **React.js, TypeScript, Next.js**  
-- 🗄️ Backend & DevOps:
+## Currently Exploring
+-  Building **real-world projects** that solve everyday problems  
+- Learning **React.js, TypeScript, Next.js**  
+-  Backend & DevOps:
   **Node.js, Express, MongoDB, Go, AWS, Docker, AI Agents**  
-- 🤝 Helping others build scalable & responsive applications  
-- 🧠 Improving problem-solving & clean code practices  
+- Helping others build scalable & responsive applications  
+- Improving problem-solving & clean code practices  
 
 ---
 
-## 💻 Technology Stack
+## Technology Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,bootstrap,firebase" />
 </p>
@@ -48,7 +48,7 @@ I love building **modern, scalable, and user-friendly web applications** and con
 </p>
 
 ---
-## 📊 My GitHub Stats
+##  My GitHub Stats
 
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zingrin&show_icons=true&theme=radical" height="165"/>
@@ -61,37 +61,37 @@ I love building **modern, scalable, and user-friendly web applications** and con
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📌 FastFeast | Fast Food Delivery Application (Team Project)
+### FastFeast | Fast Food Delivery Application (Team Project)
 A modern fast-food delivery platform with smooth navigation, menu management, and seamless ordering experience.  
 
 🔗 **Live:** https://fast-feast-nine.vercel.app  
-💻 **Client Repo:** https://github.com/MdImranHossen01/FastFeast  
+ **Client Repo:** https://github.com/MdImranHossen01/FastFeast  
 
 ---
 
-### 📌 SpeakStack
+###  SpeakStack
 A MERN stack forum platform featuring:
 - User & Admin dashboards  
 - Voting & commenting system  
 - Memberships & moderation tools  
 
 🔗 **Live:** https://speakstack-a1b8a.web.app  
-💻 **Client Repo:** https://github.com/zingrin/speakstack-client  
+ **Client Repo:** https://github.com/zingrin/speakstack-client  
 
 ---
 
-### 📌 Academix
+###  Academix
 A course management system with:
 - Role-based dashboards  
 - JWT authentication  
 - Secure CRUD operations  
 
 🔗 **Live:** https://academix-5a4b3.web.app  
-💻 **Client Repo:** https://github.com/zingrin/academix-client-side  
+ **Client Repo:** https://github.com/zingrin/academix-client-side  
 
 ---
 
-🌟 **Feel free to explore my repositories and ⭐ the ones you like!**  
-🤝 Open to collaboration, feedback, and new opportunities.
+ **Feel free to explore my repositories and  the ones you like!**  
+ Open to collaboration, feedback, and new opportunities.
